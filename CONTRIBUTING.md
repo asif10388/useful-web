@@ -21,4 +21,5 @@
 
 - [@asif10388](https://github.com/asif10388)
 - [@Abidrickthy](https://github.com/Abidrickthy)
-- [@moganis](https://https://github.com/Moganis)
+- [@moganis](https://github.com/Moganis)
+- [@sami3443](https://github.com/sami3443)
