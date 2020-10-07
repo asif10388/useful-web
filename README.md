@@ -13,7 +13,8 @@
 | -------------------------------------------------------------------------------------------------------- | --------------- |
 | [Font Flipper](https://fontflipper.com/upload)                                                           | Find Free Fonts |
 | [Free Illustrations](https://freeillustrations.xyz)                                                      | FIND FREE TO USE ILLUSTRATIONS |
-| [Colors And Fonts](https://www.colorsandfonts.com)                                                       | COLOR & TYPOGRAPHY TOOLS FOR WEB DEVELOPERS AND DESIGNERS|
+| [Colors And Fonts](https://www.colorsandfonts.com)                                                       | COLOR & TYPOGRAPHY TOOLS FOR WEB DEVELOPERS AND DESIGNERS |
+| [Happy Hues](https://www.happyhues.co)                                                                   | Get a list of curated color palette for your website or design |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
