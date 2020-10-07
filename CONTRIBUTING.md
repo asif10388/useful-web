@@ -5,7 +5,7 @@
 - You must make sure the website URL you submitted is free of charge and no payments should be mandatory in order for people to use the website.
 
 - If you are a first time contributor then please write your github username at the bottom of the file under CONTRIBUTORS. Make sure your name is followed by @.
-  - Example: `@asif10388`
+  - Example: `[@username](https://github.com/username)`
 
 ### Here is how to add your URL
 
@@ -15,7 +15,7 @@
 
 - Add your website URL under the existing URLs in the following format: `[Website name](Website Url)`
 
-- Example: [Facebook](https://www.facebook.com)
+- Example: `[Facebook](https://www.facebook.com)`
 
 ### CONTRIBUTORS:
 
