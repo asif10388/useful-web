@@ -18,6 +18,7 @@
 | [Colors And Fonts](https://www.colorsandfonts.com)                                                       | COLOR & TYPOGRAPHY TOOLS FOR WEB DEVELOPERS AND DESIGNERS |
 | [Happy Hues](https://www.happyhues.co)                                                                   | Get a list of curated color palette for your website or design |
 | [Brand Fetch](https://brandfetch.io)                                                                     | Quickly find up-to-date brand logos, colors, fonts, images |
+| [Type Scale](https://type-scale.com)                                                                     | A visual typeface calculator |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
