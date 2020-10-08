@@ -33,7 +33,8 @@
 | [Bundlephobia](https://bundlephobia.com)                                                                 | Find the cost of adding a npm package to your project|
 | [Responsively](https://responsively.app)                                                                 | Develop responsive web apps 5x faster|
 | [Httpstatuses](https://httpstatuses.com)                                                                 | Http status code description and usage guide|
-| [SketchigWithCSS](https://www.sketchingwithcss.com/samplechapter/cheatsheet.html)                        | THE ULTIMATE FLEXBOX CHEAT SHEET|
+| [Sketchig With CSS](https://www.sketchingwithcss.com/samplechapter/cheatsheet.html)                      | THE ULTIMATE FLEXBOX CHEAT SHEET|
+| [Simpsons With CSS](https://pattle.github.io/simpsons-in-css/)                                           | Few Simpsons characters made in pure CSS - Made by Chris Pattle. 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
