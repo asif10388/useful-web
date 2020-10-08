@@ -17,6 +17,8 @@
 | [Font Flipper](https://fontflipper.com/upload)                                                           | Find Free Fonts |
 | [Free Illustrations](https://freeillustrations.xyz)                                                      | FIND FREE TO USE ILLUSTRATIONS |
 | [Colors And Fonts](https://www.colorsandfonts.com)                                                       | COLOR & TYPOGRAPHY TOOLS FOR WEB DEVELOPERS AND DESIGNERS |
+| [Google Fonts](https://fonts.google.com/)                                                                | Fonts to use in Web Development |
+| [Font Awesome](https://fontawesome.com/)                                                                 | Free Icons to use in Web Development |
 | [Happy Hues](https://www.happyhues.co)                                                                   | Get a list of curated color palette for your website or design |
 | [Brand Fetch](https://brandfetch.io)                                                                     | Quickly find up-to-date brand logos, colors, fonts, images |
 | [Type Scale](https://type-scale.com)                                                                     | A visual typeface calculator |
