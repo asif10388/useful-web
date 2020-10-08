@@ -25,3 +25,4 @@
 - [@sami3443](https://github.com/sami3443)
 - [@asif19981](https://github.com/asif19981)
 - [@shadmanali](https://github.com/shadmanali)
+- [@shadmanwasali](https://github.com/shadmanwasali)
