@@ -24,6 +24,7 @@
 | [Brand Fetch](https://brandfetch.io)                                                                     | Quickly find up-to-date brand logos, colors, fonts, images |
 | [Type Scale](https://type-scale.com)                                                                     | A visual typeface calculator |
 | [Freebies.Bypeople](https://freebies.bypeople.com)                                                       | A selection of commercial use resources and tools for designers |
+| [UX Project Checklist](http://uxchecklist.github.io)                                                     | A list of UX design best practices to check off |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
