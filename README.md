@@ -6,6 +6,7 @@
 - [Web Development](#web-development)
 - [Media](#media)
 - [Productivity](#productivity)
+- [Articles](#articles)
 - [Others](#others)
 
 ## Design
@@ -17,9 +18,12 @@
 | [Font Flipper](https://fontflipper.com/upload)                                                           | Find Free Fonts |
 | [Free Illustrations](https://freeillustrations.xyz)                                                      | FIND FREE TO USE ILLUSTRATIONS |
 | [Colors And Fonts](https://www.colorsandfonts.com)                                                       | COLOR & TYPOGRAPHY TOOLS FOR WEB DEVELOPERS AND DESIGNERS |
+| [Google Fonts](https://fonts.google.com/)                                                                | Fonts to use in Web Development |
+| [Font Awesome](https://fontawesome.com/)                                                                 | Free Icons to use in Web Development |
 | [Happy Hues](https://www.happyhues.co)                                                                   | Get a list of curated color palette for your website or design |
 | [Brand Fetch](https://brandfetch.io)                                                                     | Quickly find up-to-date brand logos, colors, fonts, images |
 | [Type Scale](https://type-scale.com)                                                                     | A visual typeface calculator |
+| [Freebies.Bypeople](https://freebies.bypeople.com)                                                       | A selection of commercial use resources and tools for designers |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -59,6 +63,17 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description     |
 | -------------------------------------------------------------------------------------------------------- | --------------- |
 | [Miro](https://miro.com)                                                                                 |Online whiteboard for visual collaboration|
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Articles
+
+> Miscellaneous websites that are both useful and fun.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description     |
+| -------------------------------------------------------------------------------------------------------- | --------------- |
+| [100+ FREE Resources to Learn Full Stack Web Development](https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2)                                                         | A comprehensive list of resources to learn full stack web dev |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
