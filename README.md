@@ -7,6 +7,7 @@
 - [Media](#media)
 - [Collaboration](#collaboration)
 - [Freelancing](#freelancing)
+- [SEO](#seo)
 - [Articles](#articles)
 - [Others](#others)
 
