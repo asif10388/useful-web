@@ -47,6 +47,17 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Programming
+
+> Useful websites for learning about programming.
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description     |
+| -------------------------------------------------------------------------------------------------------- | --------------- |
+| [Learn X in Y Minutes](https://learnxinyminutes.com)                                                     | Take a whirlwind tour of your next favorite language |
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Media
 
 > Useful websites for finding or manipulating media i.e videos, music.
