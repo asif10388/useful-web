@@ -5,8 +5,6 @@
 - [Design](#design)
 - [Web Development](#web-development)
 - [Media](#media)
-- [Productivity](#productivity)
-- [Freelancing](#freelancing)
 - [Articles](#articles)
 - [Others](#others)
 
