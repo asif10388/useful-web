@@ -94,6 +94,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description     |
 | -------------------------------------------------------------------------------------------------------- | --------------- |
 | [Nira](https://nira.com/templates/freelancer-templates/)                                                 | 171 Free Resources for Freelancers |
+| [Invoicy](https://invoicy.io/invoice-generator)                                                          | Free Invoice Generator |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
