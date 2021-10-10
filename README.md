@@ -25,6 +25,7 @@
 | [Type Scale](https://type-scale.com)                                                                     | A visual typeface calculator |
 | [Freebies.Bypeople](https://freebies.bypeople.com)                                                       | A selection of commercial use resources and tools for designers |
 | [UX Project Checklist](http://uxchecklist.github.io)                                                     | A list of UX design best practices to check off |
+| [Social Media Icons](https://www.iconshock.com/social-media-icons/)                                      | A pack of 300 social media icons (PNG & Vector) |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
