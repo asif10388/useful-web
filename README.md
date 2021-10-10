@@ -45,6 +45,7 @@
 | [30 Seconds of Code](https://www.30secondsofcode.org)                                                    | Short code snippets for all your development needs |
 | [Devdocs API Documentation](https://devdocs.io)                                                          | DevDocs combines multiple API documentations |
 | [Stitches](https://stitches.hyperyolo.com)                                                               | Tailwind CSS components |
+| [SQLPD](https://sqlpd.com)                                                                               | Learn SQL while solving crimes! SQL Police Department |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
