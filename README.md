@@ -39,6 +39,7 @@
 | [Responsively](https://responsively.app)                                                                 | Develop responsive web apps 5x faster|
 | [Httpstatuses](https://httpstatuses.com)                                                                 | Http status code description and usage guide|
 | [UI Coach](https://uicoach.io)                                                                           | Generate UI design challenges to practice|
+| [Duckly](https://duckly.com)                                                                             | Talk and collaborate in real-time |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
