@@ -5,7 +5,7 @@
 - [Design](#design)
 - [Web Development](#web-development)
 - [Media](#media)
-- [Productivity](#productivity)
+- [Collaboration](#collaboration)
 - [Articles](#articles)
 - [Others](#others)
 
