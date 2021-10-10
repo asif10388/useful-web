@@ -74,9 +74,9 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Productivity
+## Collaboration
 
-> Useful websites for increasing productivity and learning to be efficient.
+> Useful websites for collaborating with people remotely and efficiently.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description     |
 | -------------------------------------------------------------------------------------------------------- | --------------- |
