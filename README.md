@@ -93,6 +93,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description     |
 | -------------------------------------------------------------------------------------------------------- | --------------- |
+| [Nira](https://nira.com/templates/freelancer-templates/)                                                 | 171 Free Resources for Freelancers |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
