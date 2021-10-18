@@ -134,6 +134,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description     |
 | -------------------------------------------------------------------------------------------------------- | --------------- |
+| [Omatsuri](https://omatsuri.app)                                                                         | Open source browser tools for everyday use |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
