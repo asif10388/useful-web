@@ -154,6 +154,7 @@
 | [Useful Web Tools](https://10015.io)                                                                                       | Useful tools for web designers and developers |
 | [Regex Tester](https://regexr.com/)                                                                                        | Website where you can Test your Regex patters with live Match|
 | [Quaternius](https://quaternius.com/?i=1)                                                                                  | Free game assets |
+| [Hacktober Swag](https://hacktoberfestswaglist.com)                                                                        | Hacktoberfest 2021 Swag List |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
