@@ -134,6 +134,7 @@
 | [When Should I Stop Watching](https://whenshouldistopwatching.com)                                                         | Find out when you should stop watching a series |
 | [Useful Web Tools](https://10015.io)                                                                                       | Useful tools for web designers and developers |
 | [Regex Tester](https://regexr.com/)                                                                                        | Website where you can Test your Regex patters with live Match|
+| [Quaternius](https://quaternius.com/?i=1)                                                                                  | Free game assets |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
