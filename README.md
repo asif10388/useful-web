@@ -10,6 +10,7 @@
 - [Freelancing](#freelancing)
 - [SEO](#seo)
 - [Articles](#articles)
+- [Tools](#tools)
 - [Others](#others)
 
 ## Design
