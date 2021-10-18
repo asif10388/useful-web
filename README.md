@@ -109,6 +109,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description     |
 | -------------------------------------------------------------------------------------------------------- | --------------- |
 | [MetaTags](https://metatags.io)                                                                          | Preview, Edit and Generate |
+| [Responsively](https://responsively.app)                                                                 | Develop responsive web apps 5x faster!|
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
