@@ -4,6 +4,7 @@
 
 - [Design](#design)
 - [Web Development](#web-development)
+- [Programming](#programming)
 - [Media](#media)
 - [Collaboration](#collaboration)
 - [Freelancing](#freelancing)
