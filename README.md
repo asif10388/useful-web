@@ -114,6 +114,7 @@
 | [MetaTags](https://metatags.io)                                                                          | Preview, Edit and Generate |
 | [Responsively](https://responsively.app)                                                                 | Develop responsive web apps 5x faster!|
 | [Browserling](https://www.browserling.com)                                                               | Online cross-browser testing |
+| [Wev Developer Checklist](https://www.toptal.com/developers/webdevchecklist)                                                    | Web Developer Checklist |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
