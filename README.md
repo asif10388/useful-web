@@ -52,6 +52,7 @@
 | [Devdocs API Documentation](https://devdocs.io)                                                          | DevDocs combines multiple API documentations |
 | [Stitches](https://stitches.hyperyolo.com)                                                               | Tailwind CSS components |
 | [SQLPD](https://sqlpd.com)                                                                               | Learn SQL while solving crimes! SQL Police Department |
+| [Big Front-End Dev](https://bigfrontend.dev/)                                                            | Practice Front-End coding problems |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -65,7 +66,6 @@
 | [Learn X in Y Minutes](https://learnxinyminutes.com)                                                     | Take a whirlwind tour of your next favorite language |
 | [ShowPath](https://roadmap.vercel.app)                                                                   | Compare and Learn a Programming Language |
 | [SQL Murder Mystery](https://mystery.knightlab.com/)                                                     | Learn SQL by solving a crime |
-| [Big Front-End Dev](https://bigfrontend.dev/)                                                            | Practice Front-End coding problems |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
