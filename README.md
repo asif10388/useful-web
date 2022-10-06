@@ -63,7 +63,8 @@
 | -------------------------------------------------------------------------------------------------------- | --------------- |
 | [Learn X in Y Minutes](https://learnxinyminutes.com)                                                     | Take a whirlwind tour of your next favorite language |
 | [ShowPath](https://roadmap.vercel.app)                                                                   | Compare and Learn a Programming Language |
-| [SQL Murder Mystery](https://mystery.knightlab.com/)                                                     | Learn SQL by solving a crime
+| [SQL Murder Mystery](https://mystery.knightlab.com/)                                                     | Learn SQL by solving a crime |
+| [Big Front-End Dev](https://bigfrontend.dev/)                                                            | Practice Front-End coding problems |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
