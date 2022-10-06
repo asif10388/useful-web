@@ -172,7 +172,6 @@
 | [Quaternius](https://quaternius.com/?i=1)                                                                                  | Free game assets |
 | [Hacktober Swag](https://hacktoberfestswaglist.com)                                                                        | Hacktoberfest 2021 Swag
 | [Corn Revolution](https://cornrevolution.resn.global/)                                                                     | 3D corn website for showcase |
-List |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
