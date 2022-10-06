@@ -5,6 +5,7 @@
 - [Design](#design)
 - [Web Development](#web-development)
 - [Programming](#programming)
+- [Data Science](#datascience)
 - [Media](#media)
 - [Collaboration](#collaboration)
 - [Freelancing](#freelancing)
