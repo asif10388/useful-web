@@ -54,6 +54,7 @@
 | [SQLPD](https://sqlpd.com)                                                                               | Learn SQL while solving crimes! SQL Police Department |
 | [Big Front-End Dev](https://bigfrontend.dev/)                                                            | Practice Front-End coding problems |
 | [GRID GARDEN](https://cssgridgarden.com/)                                                                | Write CSS code to grow your carrot garden! |
+| [FLEXBOX FROGGY](http://flexboxfroggy.com/)                                                              | A game where you help Froggy and friends by writing CSS |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
