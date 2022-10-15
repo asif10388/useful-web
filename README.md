@@ -35,6 +35,7 @@
 | [Vektors](https://www.vektors.pro)                                                                       | Find awesome free illustration packs for all your projects |
 | [Skribbl](https://weareskribbl.com)                                                                      | A growing collection of freely-usable, hand-drawn illustrations |
 | [Webflow](https://webflow.com/)                                                                          | The site you want — without the dev time |
+| [Freepik](https://www.freepik.com/)                                                                      | Find and download the best high-quality photos, designs and mockups |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
