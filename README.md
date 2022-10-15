@@ -8,6 +8,7 @@
 - [Data Science](#datascience)
 - [Media](#media)
 - [Collaboration](#collaboration)
+- [Productivity](#productivity)
 - [Freelancing](#freelancing)
 - [SEO](#seo)
 - [Articles](#articles)
