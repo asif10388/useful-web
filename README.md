@@ -11,6 +11,7 @@
 - [Productivity](#productivity)
 - [Freelancing](#freelancing)
 - [SEO](#seo)
+- [Finance](#finance)
 - [Articles](#articles)
 - [Tools](#tools)
 - [Others](#others)
