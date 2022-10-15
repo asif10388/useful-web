@@ -162,7 +162,6 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description     |
 | -------------------------------------------------------------------------------------------------------- | --------------- |
-| [Pyypl](https://www.pyypl.com/)                                                                           | Pyypl is a blockchain pioneer. · Multi-Currency Digital Wallet · Internationally Accepted Prepaid Card |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
