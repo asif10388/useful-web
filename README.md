@@ -189,7 +189,6 @@
 | [Omatsuri](https://omatsuri.app)                                                                         | Open source browser tools for everyday use |
 | [Surge](https://surge.sh)                                                                                | Static web publishing for Front-End Developers |
 | [Slidev](https://sli.dev)                                                                                | Presentation Slides for Developers |
-| [Pixel Thoughts](http://www.pixelthoughts.co/)                                                           | Put a stressful thought in the star |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
