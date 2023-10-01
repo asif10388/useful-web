@@ -208,6 +208,8 @@
 | [Corn Revolution](https://cornrevolution.resn.global/)                                                                     | 3D corn website for showcase |
 | [Github Student Developer Pack](https://education.github.com/pack)                                                         | Learn to ship software like a pro. |
 | [Pixel Thoughts](https://www.pixelthoughts.co/)                                                                            | Erase your worries |
+| [RATATYPE](https://www.pixelthoughts.co/](https://www.ratatype.com/)                                                       | Learn how to type faster |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
