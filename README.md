@@ -86,7 +86,7 @@
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description     |
 | -------------------------------------------------------------------------------------------------------- | --------------- |
 | [Kaggle](https://www.kaggle.com/)                                                                        | Practice data science |
-| [Datacamp](https://www.datacamp.com/)                                                                    | Build data skills online |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
