@@ -141,6 +141,7 @@
 | [Nira](https://nira.com/templates/freelancer-templates/)                                                 | 171 Free Resources for Freelancers |
 | [Invoicy](https://invoicy.io/invoice-generator)                                                          | Free Invoice Generator |
 | [Avodocs](https://www.avodocs.com)                                                                       | Free legal documents for startups |
+| [Bonsai](https://www.hellobonsai.com/)                                                                   | Run your entire business in one place|
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
