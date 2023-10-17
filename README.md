@@ -93,6 +93,7 @@
 | -------------------------------------------------------------------------------------------------------- | --------------- |
 | [Kaggle](https://www.kaggle.com/)                                                                        | Practice data science |
 | [Datacamp](https://www.datacamp.com/)                                                                    | Build data skills online |
+| [Deepnote](https://deepnote.com/)                                                                        | Notebooks: a better way for teams to work with data |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
