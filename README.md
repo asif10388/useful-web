@@ -80,6 +80,7 @@
 | [SQL Murder Mystery](https://mystery.knightlab.com/)                                                     | Learn SQL by solving a crime |
 | [HackerRank](https://www.hackerrank.com/)                                                                | Learn to solve programming problems  |
 | [Bash scripting cheatsheet](https://devhints.io/bash)                                                    | This is a quick reference to getting started with Bash scripting |
+| [CodeWithHarry](https://www.codewithharry.com/)                                                          | Learn different programming languages for free |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
@@ -93,7 +94,6 @@
 | [Kaggle](https://www.kaggle.com/)                                                                        | Practice data science |
 | [Datacamp](https://www.datacamp.com/)                                                                    | Build data skills online |
 | [Deepnote](https://deepnote.com/)                                                                        | Notebooks: a better way for teams to work with data |
-| [SQLGate](https://www.sqlgate.com/)                                                                      | The Most Intelligent IDE for Database |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
