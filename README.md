@@ -6,6 +6,7 @@
 - [Web Development](#web-development)
 - [Programming](#programming)
 - [Data Science](#datascience)
+- [Devops](#devops)
 - [Media](#media)
 - [Collaboration](#collaboration)
 - [Productivity](#productivity)
