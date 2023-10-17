@@ -30,3 +30,4 @@
 - [@shadwouldbehere](https://github.com/Shadwouldbehere)
 - [@sarangsmk](https://github.com/sarangsmk)
 - [@nnisarggada](https://github.com/nnisarggada/)
+- [@rudra1ghosh](https://github.com/rudra1ghosh)

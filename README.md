@@ -38,6 +38,7 @@
 | [Webflow](https://webflow.com/)                                                                          | The site you want — without the dev time |
 | [Freepik](https://www.freepik.com/)                                                                      | Find and download the best high-quality photos, designs and mockups |
 | [Realtime Colors](https://realtimecolors.com/)                                                           | Enables users to generate color palettes, preview them on a live website, and export them in various formats |
+| [Color Hunt](https://colorhunt.co/) |Find curated selection of beautiful color palettes for creative design projects.|
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
