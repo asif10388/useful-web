@@ -66,6 +66,7 @@
 | [Browserstack](https://www.browserstack.com/)                                                            | App & Browser Testing Made Easy |
 | [Frontendmasters](https://frontendmasters.com/)                                                          | Advance Your Skills with In-Depth, Modern Frontend to Fullstack Courses |
 | [Clientside](https://www.clientside.dev/)                                                                | A new way to prep for frontend jobs. |
+| [Lambdatest](https://www.lambdatest.com/)                                                                | Next-Generation Mobile Apps and Cross Browser Testing Cloud |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
