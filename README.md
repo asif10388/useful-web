@@ -78,6 +78,7 @@
 | [ShowPath](https://roadmap.vercel.app)                                                                   | Compare and Learn a Programming Language |
 | [SQL Murder Mystery](https://mystery.knightlab.com/)                                                     | Learn SQL by solving a crime |
 | [HackerRank](https://www.hackerrank.com/)                                                                | Learn to solve programming problems  |
+| [Bash scripting cheatsheet](https://devhints.io/bash)                                                    | This is a quick reference to getting started with Bash scripting |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
