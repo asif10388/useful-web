@@ -65,7 +65,7 @@
 | [Refactoring Guru](https://refactoring.guru/)                                                            | Learn design patterns and clean code patterns |
 | [Browserstack](https://www.browserstack.com/)                                                            | App & Browser Testing Made Easy |
 | [Frontendmasters](https://frontendmasters.com/)                                                          | Advance Your Skills with In-Depth, Modern Frontend to Fullstack Courses |
-| [Clientside](https://www.clientside.dev/0                                                                | A new way to prep for frontend jobs. |
+| [Clientside](https://www.clientside.dev/)                                                                | A new way to prep for frontend jobs. |
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
